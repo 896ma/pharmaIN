@@ -1,1 +1,1 @@
-# pharmaINS
+# pharmaIN
